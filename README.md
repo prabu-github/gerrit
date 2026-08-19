@@ -31,8 +31,8 @@ Code for gerrit
 # Note for `run.py`
 - `cd projworks`
 - Two ways to specify `--train_model`:
-   - `python -m gerrit.run --train_model MODELNAME`
-   - `python -m gerrit.run --train_model MODELNAME1:MODELNAME2:MODELNAME3:...`
+   - `python gerrit/run.py --train_model MODELNAME`
+   - `python gerrit/run.py --train_model MODELNAME1:MODELNAME2:MODELNAME3:...`
     
 ---
 
