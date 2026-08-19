@@ -6,7 +6,7 @@ Code for gerrit
 # Data setup: Data download and make compatible
 
 - `cd projworks`
-- `python gerrit/datasetup.py'
+- `python gerrit/datasetup.py`
 
 
 ---
