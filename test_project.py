@@ -15,7 +15,7 @@ from project import (get_dataset,
 
 if __name__ == '__main__':
 
-    parser = argparse.ArgumentParser('gerrit:tests.')
+    parser = argparse.ArgumentParser('Tests for project.py.')
 
     parser.add_argument('--dskey',
                         choices=['gerritall',
